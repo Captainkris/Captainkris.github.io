@@ -1,0 +1,193 @@
+.ScltTxt {
+   
+}
+ 
+.Monitor {
+    position: absolute;
+    height: 541px;
+    width: 705.5528564453125px;
+    left: 585px;
+    top: 173px;
+    border-radius: 0px;
+
+ }
+
+.Mac {
+    position: absolute;    
+    height: 129.37301635742188px;
+    width: 349.66937255859375px;
+    left: 1090.3310546875px; 
+    top: 584.626953125px;
+    border-radius: 0px;
+
+}
+
+.catch {
+    position: absolute;
+    width: 670px;
+    height: 126px;
+    left: 57px;
+    top: 225px;
+    color: #000000;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.sms {
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 57px;
+    top: 388px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    color: #F0AF00;
+}
+
+.logo {
+    position: absolute;
+    width: 143px;
+    height: 33px;
+    left: 151px;
+    top: 69px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23.5px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+}
+
+.email { 
+    position: absolute;
+    width: 224px;
+    height: 21px;
+    left: 81px;
+    top: 5px;
+    
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    /* identical to box height, or 21px */
+    
+    display: flex;
+    align-items: center;
+}
+
+.home {
+    position: absolute;
+    width: 57px;
+    height: 25px;
+    left: 639px;
+    top: 70px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 25px */
+    
+    display: flex;
+    align-items: center;
+
+}
+
+.mission {
+    position: absolute;
+    width: 109px;
+    height: 25px;
+    left: 753px;
+    top: 70px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 25px */
+    
+    display: flex;
+    align-items: center;
+}
+
+.team {
+    position: absolute;
+    width: 90px;
+    height: 25px;
+    left: 917px;
+    top: 70px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 25px */
+    
+    display: flex;
+    align-items: center;
+}
+
+.contact {
+    position: absolute;
+    width: 101px;
+    height: 25px;
+    left: 1063px;
+    top: 70px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 25px */
+    
+    display: flex;
+    align-items: center;
+}
+
+.joinfuture {
+    position: absolute;
+width: 140px;
+height: 25px;
+left: 1220px;
+top: 70px;font-family: 'Calibri';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+/* or 25px */
+
+display: flex;
+align-items: center;
+}
+
+.in {
+    position: absolute;
+    width: 528px;
+    height: 105px;
+    left: 57px;
+    top: 448px;
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 25px;
+    line-height: 140%;
+    /* or 35px */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #646464;
+}
+
